@@ -1,7 +1,7 @@
 # Minesweeper Idle — openbaar privacybeleid
 
 Dit is de **statische, tweetalige privacywebsite** voor de Android-game
-**Minesweeper Idle** van David van der Wulp.
+**Minesweeper Idle** van Copper Compile Programming.
 
 **Publieke URL:** https://davidvdw02.github.io/puzzle-idle-privacy/
 
@@ -29,8 +29,9 @@ De website is een GitHub Pages-site, niet de privé Godot-game-repository.
    - Google Play Console → App content → Privacy policy;
    - een duidelijk bereikbare privacybeleid-link **binnen de Android-app**
      (deze ontbreekt nog en moet in de spelcode toegevoegd worden).
-5. Controleer de contactmail: de naam en het adres zijn overgenomen uit de
-   oorspronkelijke website en niet onafhankelijk gevalideerd.
+5. Controleer of de bedrijfsnaam `Copper Compile Programming` overeenkomt
+   met de ontwikkelaarsnaam in Google Play Console en of het openbare
+   supportadres bereikbaar is.
 
 ## Belangrijke inhoudelijke controle
 
