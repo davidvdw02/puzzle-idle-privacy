@@ -58,10 +58,10 @@ daadwerkelijke ondertekende APK/AAB of juridisch advies.
    content rating in Play Console. Alleen dan kunnen leeftijdsclaims
    en eventueel Google's Families-richtlijnen worden beoordeeld.
 
-5. **Geldige identiteit en supportadres.** De developernaam
-   `David van der Wulp` en `puzzleidlegame@gmail.com` zijn overgenomen
-   uit de vorige openbare site. De eigenaar moet controleren dat het
-   contactadres bereikbaar is en overeenkomt met de publicatie-identiteit.
+5. **Geldige identiteit en supportadres.** De privacywebsite vermeldt
+   sinds 12 november 2026 `Copper Compile Programming` als ontwikkelaar.
+   Controleer of deze bedrijfsnaam overeenkomt met de publicatie-identiteit
+   in Google Play Console en of `puzzleidlegame@gmail.com` bereikbaar is.
 
 6. **Betaalde aankopen.** Play-producten moeten nog worden aangemaakt en
    geactiveerd. Het huidige aankoopproces gebruikt on-device aankoopstatus
